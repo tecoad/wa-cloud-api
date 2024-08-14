@@ -1,11 +1,11 @@
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/MarcosNicolau/whatsapp-business-sdk/npm_publish.yml?branch=main)
-![Known Vulnerabilities](https://snyk.io/test/github/MarcosNicolau/whatsapp-business-sdk/badge.svg)
-![Codecov](https://img.shields.io/codecov/c/github/MarcosNicolau/whatsapp-business-sdk?token=G20JHIZMRW)
-![GitHub last commit](https://img.shields.io/github/last-commit/MarcosNicolau/whatsapp-business-sdk)
-![GitHub top language](https://img.shields.io/github/languages/top/MarcosNicolau/whatsapp-business-sdk)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/tecoad/wa-cloud-api/npm_publish.yml?branch=main)
+![Known Vulnerabilities](https://snyk.io/test/github/tecoad/wa-cloud-api/badge.svg)
+![Codecov](https://img.shields.io/codecov/c/github/tecoad/wa-cloud-api?token=G20JHIZMRW)
+![GitHub last commit](https://img.shields.io/github/last-commit/tecoad/wa-cloud-api)
+![GitHub top language](https://img.shields.io/github/languages/top/tecoad/wa-cloud-api)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/whatsapp-business)
 ![npm](https://img.shields.io/npm/v/whatsapp-business)
-![GitHub](https://img.shields.io/github/license/MarcosNicolau/whatsapp-business-sdk)
+![GitHub](https://img.shields.io/github/license/tecoad/wa-cloud-api)
 
 # WhatsApp Business API SDK
 
